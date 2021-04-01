@@ -1,0 +1,15 @@
+.Lbl {
+    float: left;
+    text-align: right;
+    width: 35%; 
+    height: fit-content;
+    margin: 5px;
+  }
+  
+.Ele {
+    float: left;
+    text-align: left;
+    width: 55%; 
+    height: fit-content;
+    margin: 5px;
+  }

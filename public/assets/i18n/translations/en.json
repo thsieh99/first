@@ -1,0 +1,10 @@
+{
+	"language.label": "Language",
+	"hello.label": "Hello",
+	"thankyou.label": "Thank you",
+	"taxyear.label": "Tax Year",
+	"selectTaxYearPrompt.label": "Select a Tax Year",
+	"income.label": "Your income range",
+	"incomeRangeOption.01.label": "Less than $20,000",
+	"incomeRangeOption.02.label": "At least $20,000 but less than $30,000"
+}

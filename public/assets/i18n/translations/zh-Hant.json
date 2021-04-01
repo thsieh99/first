@@ -1,0 +1,10 @@
+{
+	"language.label": "語言",
+	"hello.label": "你好",
+	"thankyou.label": "謝謝你",
+	"taxyear.label": "課稅年度",
+	"selectTaxYearPrompt.label": "年度",
+	"income.label": "您的年度收入",
+	"incomeRangeOption.01.label": "少於 $20,000",
+	"incomeRangeOption.02.label": "至少 $20,000 但少於 $300,000"
+}
