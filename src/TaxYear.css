@@ -1,3 +1,11 @@
+.Ttl {
+  float: center;
+  text-align: center;
+  width: 100%; 
+  height: fit-content;
+  margin: 5px;
+}
+
 .Lbl {
     float: left;
     text-align: right;
